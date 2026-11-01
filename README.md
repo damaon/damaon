@@ -7,3 +7,11 @@ I like :video_game:  :clapper: :books:  :musical_keyboard: :bicyclist: :snowboar
 
 
 :v:
+
+Blog: https://blog.damaon.workers.dev/
+
+Recent projects and experiments:
+* https://digshot.damaon.workers.dev/ - liero clone
+* https://wro3d.damaon.workers.dev/ - map of city centre
+* https://pytong.pl/ - forum, reddit like
+* https://wylizpatelnie.vercel.app/ - cooking assistant
