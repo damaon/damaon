@@ -12,6 +12,6 @@ Blog: https://blog.damaon.workers.dev/
 
 Recent projects and experiments:
 * https://digshot.damaon.workers.dev/ - liero clone
-* https://wro3d.damaon.workers.dev/ - map of city centre
+* https://wro3d.damaon.workers.dev/ - 3d reconstruction of market square
 * https://pytong.pl/ - forum, reddit like
 * https://wylizpatelnie.vercel.app/ - cooking assistant
